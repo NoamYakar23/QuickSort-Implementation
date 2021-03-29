@@ -12,5 +12,5 @@ The essential idea is
 2. put all values that are smaller than the pivot on the left, all the larger values on the right
 3. once there are no values less than the 0th index, and no values greater than the last index, the array is sorted !!😁
 
-![image](https://user-images.githubusercontent.com/75957506/112857266-adbc2600-907e-11eb-93da-5bf28f746a11.png)
+
 
