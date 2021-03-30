@@ -1,8 +1,8 @@
+
 import numpy as np
 import random
 import matplotlib.pyplot as plt
-temp = 0
-temp2 = 0
+
 
 def generate_random_array():
     arr = []
